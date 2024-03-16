@@ -37,6 +37,7 @@ public class Task5 {
         oop.printRegisteredStudents();
 
         System.out.println("-----------------------------");
+
         vsa.printRegisteredStudents();
 
     }
