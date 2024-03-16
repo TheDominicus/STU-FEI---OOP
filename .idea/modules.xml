@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Hodina1/Hodina1.iml" filepath="$PROJECT_DIR$/SPŠE Java/Hodina1/Hodina1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Hodina2/Hodina2.iml" filepath="$PROJECT_DIR$/SPŠE Java/Hodina2/Hodina2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Hodina3/Hodina3.iml" filepath="$PROJECT_DIR$/SPŠE Java/Hodina3/Hodina3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Hodina4/Hodina4.iml" filepath="$PROJECT_DIR$/SPŠE Java/Hodina4/Hodina4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/JavaApplication17/JavaApplication17.iml" filepath="$PROJECT_DIR$/SPŠE Java/JavaApplication17/JavaApplication17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/JavaApplication46/JavaApplication46.iml" filepath="$PROJECT_DIR$/SPŠE Java/JavaApplication46/JavaApplication46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/JavaApplication54/JavaApplication54.iml" filepath="$PROJECT_DIR$/SPŠE Java/JavaApplication54/JavaApplication54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/JavaApplication72/JavaApplication72.iml" filepath="$PROJECT_DIR$/SPŠE Java/JavaApplication72/JavaApplication72.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/ListokDoKina/ListokDoKina.iml" filepath="$PROJECT_DIR$/SPŠE Java/ListokDoKina/ListokDoKina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Nacitanie z klavesnice/Nacitanie z klavesnice.iml" filepath="$PROJECT_DIR$/SPŠE Java/Nacitanie z klavesnice/Nacitanie z klavesnice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_collab.iml" filepath="$PROJECT_DIR$/.idea/OOP_collab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/ParneCisla_ArrayList/ParneCisla_ArrayList.iml" filepath="$PROJECT_DIR$/SPŠE Java/ParneCisla_ArrayList/ParneCisla_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/PisomkaSurani/PisomkaSurani.iml" filepath="$PROJECT_DIR$/SPŠE Java/PisomkaSurani/PisomkaSurani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Pole/Pole.iml" filepath="$PROJECT_DIR$/SPŠE Java/Pole/Pole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Príklady z hodiny/Príklady z hodiny.iml" filepath="$PROJECT_DIR$/SPŠE Java/Príklady z hodiny/Príklady z hodiny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Príklady z hodiny (2)/Príklady z hodiny (2).iml" filepath="$PROJECT_DIR$/SPŠE Java/Príklady z hodiny (2)/Príklady z hodiny (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Príklady z hodiny (3)/Príklady z hodiny (3).iml" filepath="$PROJECT_DIR$/SPŠE Java/Príklady z hodiny (3)/Príklady z hodiny (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/SkladOvocia/SkladOvocia.iml" filepath="$PROJECT_DIR$/SPŠE Java/SkladOvocia/SkladOvocia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/UlohaSurani/UlohaSurani.iml" filepath="$PROJECT_DIR$/SPŠE Java/UlohaSurani/UlohaSurani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/UlohaSurani/UlohaSurani/UlohaSurani1.iml" filepath="$PROJECT_DIR$/SPŠE Java/UlohaSurani/UlohaSurani/UlohaSurani1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Vyrobky/Vyrobky.iml" filepath="$PROJECT_DIR$/SPŠE Java/Vyrobky/Vyrobky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie1/Zadanie1.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie1/Zadanie1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie10/Zadanie10.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie10/Zadanie10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie11/Zadanie11.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie11/Zadanie11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie12/Zadanie12.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie12/Zadanie12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie1/Zadanie13.iml" filepath="$PROJECT_DIR$/Zadanie1/Zadanie13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie13/Zadanie131.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie13/Zadanie131.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie14/Zadanie14.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie14/Zadanie14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie15/Zadanie15.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie15/Zadanie15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie2/Zadanie2.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie2/Zadanie2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie2/Zadanie21.iml" filepath="$PROJECT_DIR$/Zadanie2/Zadanie21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie3/Zadanie3.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie3/Zadanie3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie3/Zadanie31.iml" filepath="$PROJECT_DIR$/Zadanie3/Zadanie31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie4/Zadanie4.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie4/Zadanie4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie4/Zadanie41.iml" filepath="$PROJECT_DIR$/Zadanie4/Zadanie41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie5/Zadanie5.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie5/Zadanie5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie5/Zadanie51.iml" filepath="$PROJECT_DIR$/Zadanie5/Zadanie51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie6/Zadanie6.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie6/Zadanie6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie7/Zadanie7.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie7/Zadanie7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie8/Zadanie8.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie8/Zadanie8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPŠE Java/Zadanie9/Zadanie9.iml" filepath="$PROJECT_DIR$/SPŠE Java/Zadanie9/Zadanie9.iml" />
+    </modules>
+  </component>
+</project>
