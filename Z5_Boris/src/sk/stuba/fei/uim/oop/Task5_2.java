@@ -20,7 +20,6 @@ public class Task5_2 {
 
         System.out.println(money.canAssemble(coins));
 
-        System.out.println(money.getAmount());
     }
 
 }

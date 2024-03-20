@@ -1,12 +1,10 @@
 package test.java;
 
-import org.junit.Test;
 import sk.stuba.fei.uim.oop.entity.MonetaryAmount;
 import sk.stuba.fei.uim.oop.entity.Coin;
 
+import org.junit.Test;
 import static org.junit.Assert.*;
-
-// Assuming the 'Coin' class is accessible
 
 public class MonetaryAmountTest {
 
@@ -18,7 +16,7 @@ public class MonetaryAmountTest {
 
     @Test
     public void testAddCoin() {
-        Coin coin = new Coin(5);  // Assuming a Coin constructor with value
+        Coin coin = new Coin(5);
         MonetaryAmount amount = new MonetaryAmount();
         amount.add(coin);
         assertEquals(5, amount.getAmount());
@@ -28,7 +26,7 @@ public class MonetaryAmountTest {
     public void testSubCoin() {
         Coin coin = new Coin(10);
         MonetaryAmount amount = new MonetaryAmount();
-        amount.add(coin);  // Add 10 first
+        amount.add(coin);
         amount.sub(coin);
         assertEquals(0, amount.getAmount());
     }
@@ -40,12 +38,12 @@ public class MonetaryAmountTest {
         amount.add(coin);
         MonetaryAmount copy = amount.copy();
         assertEquals(amount.getAmount(), copy.getAmount());
-        assertNotSame(amount, copy);  // Ensure they are different objects
+        assertNotSame(amount, copy);
     }
 
     @Test
     public void testIsChangePossible_true() {
-        Coin[] coins = {new Coin(1), new Coin(2), new Coin(5)};
+        Coin[] coins = {new Coin(2), new Coin(5), new Coin(10)};
         MonetaryAmount amount = new MonetaryAmount();
         Coin coin = new Coin(13);
         amount.add(coin);
@@ -54,7 +52,7 @@ public class MonetaryAmountTest {
 
     @Test
     public void testIsChangePossible_false() {
-        Coin[] coins = {new Coin(2), new Coin(5)};
+        Coin[] coins = {new Coin(2), new Coin(5), new Coin(10)};
         MonetaryAmount amount = new MonetaryAmount();
         Coin coin = new Coin(1);
         amount.add(coin);
@@ -63,8 +61,8 @@ public class MonetaryAmountTest {
 
     @Test
     public void testCanAssemble_true() {
-        Coin[] coins = {new Coin(1), new Coin(2), new Coin(5)};
-        MonetaryAmount amount = new MonetaryAmount();  // Assuming a constructor with initial amount
+        Coin[] coins = {new Coin(2), new Coin(5), new Coin(10)};
+        MonetaryAmount amount = new MonetaryAmount();
         Coin coin = new Coin(13);
         amount.add(coin);
         assertTrue(amount.canAssemble(coins));
@@ -72,7 +70,7 @@ public class MonetaryAmountTest {
 
     @Test
     public void testCanAssemble_false() {
-        Coin[] coins = {new Coin(2), new Coin(5)};
+        Coin[] coins = {new Coin(2), new Coin(5),new Coin(10)};
         MonetaryAmount amount = new MonetaryAmount();
         Coin coin = new Coin(1);
         amount.add(coin);
